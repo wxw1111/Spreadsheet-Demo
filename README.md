@@ -2,3 +2,4 @@
 * https://github.com/BrotherJing/scalable-ot
 * https://github.com/automerge/automerge
 * https://github.com/neurodrone/crdt
+* https://github.com/coast-team/mute
